@@ -43,14 +43,7 @@ Aqui estão as ferramentas, linguagens e tecnologias com as quais tenho contato,
 
 ---
 
-### Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lszmenezes&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lszmenezes&layout=compact&langs_count=7&theme=radial"/>
-</div>
-
----
 
 ### Vamos nos conectar?
 
