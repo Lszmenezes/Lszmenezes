@@ -52,6 +52,4 @@ Se quiser trocar uma ideia sobre robótica, programação ou automação, só ch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-menezes1254/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto::leonardoszmenezes@gmail.com)
 
-<div align="center">
-  <sub>README construído com 🛠️ e ☕ por Leonardo de Souza Menezes.</sub>
-</div>
+
